@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+#Red_Box {
+    background-color: red;
+    height: 90px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#Blue_Box {
+    background-color: blue;
+    height: 620px;
+    width: 100%;
+
+
+}
+
+#Green_Box {
+    background-color: green;
+    height: 90%;
+    width: 90%;
+}
+
+#OrangeBox
